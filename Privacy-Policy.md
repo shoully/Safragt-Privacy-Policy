@@ -64,7 +64,5 @@ If you have any questions or suggestions about my Privacy Policy, do not hesitat
 Ihab Shoully
 
 SIT Tower
-
 Dubai Silicon Oasis
-
 Dubai, UAE
