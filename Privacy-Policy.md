@@ -1,4 +1,4 @@
-## Privacy Policy
+## Safragt Game Privacy Policy
 
 Ihab Shoully built the Safragt Game as an Ad Supported app. This SERVICE is provided by Ihab Shoully at no cost and is intended for use as is.
 
@@ -62,6 +62,9 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
 
 Ihab Shoully
+
 SIT Tower
+
 Dubai Silicon Oasis
+
 Dubai, UAE
