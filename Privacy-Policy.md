@@ -61,8 +61,10 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
 
-***Ihab Shoully***
+Name: Ihab Shoully
 
-SIT Tower, 
+Address: SIT Tower, 
 Dubai Silicon Oasis, 
 Dubai, UAE
+
+Email: Provided inside the Google Play, Safragt Game page.
