@@ -64,5 +64,3 @@ Name: Ihab Shoully
 Address: SIT Tower, 
 Dubai Silicon Oasis, 
 Dubai, UAE
-
-Email: Provided inside the Google Play, Safragt Game page.
