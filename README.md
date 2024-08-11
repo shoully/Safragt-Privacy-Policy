@@ -1,58 +1,58 @@
-## Safragt Game Privacy Policy
+# Safragt Game Privacy Policy
 
+I, Ihab Shouly, developed this game "Safargt" as an ad-supported app. This service is provided at no cost and is intended for use as is.
 
-I, Ihab Shoully, developed this game "Safarjat" as an ad-supported application. This service is provided free of charge and is for personal use only.
+This page is used to inform you of my policies regarding the collection, use, and disclosure of personal information if anyone decides to use my service.
 
-This page informs you about my policies regarding the collection, use, and disclosure of personal information when you use my service.
+If you choose to use my service, you agree to the collection and use of information in relation to this policy. The personal information I collect is used for providing and improving the service. I will not use or share your information with anyone except as described in this privacy policy.
 
-If you choose to use my service, you agree to the collection and use of information in accordance with this policy. The personal information I collect is used to provide and improve the service. I will not use or share your information with anyone except as described in this Privacy Policy.  
+## Purpose and Scope
+This game is supported by non-intrusive ads. Players can choose to watch ads to earn credits by clicking the ads button. You can play the game without watching ads if you prefer. The ads do not include pop-ups or other annoying forms.
 
-**Purpose and Scope**
+## Information Collection and Use
+I collect data using Google Analytics, like your city, playtime, phone type, and other technical information to improve the app’s performance and understand user needs. This data is used to enhance performance and the user experience.
 
-This app is supported by non-intrusive ads. You can choose to watch ads for in-game credits or play without them. Ads do not include pop-ups or other disruptive formats.
-I collect data using Google Analytics (city, play duration, device type) to improve app performance and understand user needs. This data is non-personal and used for improvement purposes.
+To save information like game scores and game preferences, I use local storage on your device. If you play the game online, your game scores and preferences are saved in Firebase.
 
-**Information Collection and Use**
+## Security
+I value your trust in providing us with your personal information, so I strive to use commercially acceptable means of protecting it. I use encryption (SSL) to protect data during online transmission, and I implement authentication to access the online game. Each user can only access their own game data. I update the app at least once a year.
 
-The app may request information to enhance your experience, but it will be stored on your device and not collected by me. The app uses third-party services that may collect identifiable information.
+### Links to Privacy Policies of Third-Party Service Providers
 
-**Links to Third-Party Privacy Policies**
+  * Google Play Services:
+        https://policies.google.com/privacy?hl=en-US
+  * Firebase Analytics:
+        https://firebase.google.com/terms/analytics
+  * Crashlytics:
+        https://firebase.google.com/docs/crashlytics
 
-    Google Play Services: https://policies.google.com/privacy?hl=en-US
-    Firebase Analytics: https://firebase.google.com/terms/analytics
-    Crashlytics: https://firebase.google.com/docs/crashlytics
+## Log Data
+I want to inform you that whenever you use my service, in case of an error in the game, I collect data and information (through third-party products) on your phone called Log Data. This log data may include information such as your device's Internet Protocol (IP) address, device name, operating system version, the configuration of the app when utilizing my service, the time and date of your use of the service, and other statistics.
 
-**Log Data**
+## Cookies
+This service does not explicitly use cookies. However, I use local storage inside the game folder to save information like game scores and game preferences. If you play online, the information is also saved in my game project at Firebase.
 
-When you use the service, I may collect log data (through third-party products) on your device in case of an app error. This includes your device's IP address, name, operating system version, app configuration, and the time/date of service use.
+## Service Providers
+I may employ third-party companies and individuals for the following reasons:
 
-**Cookies**
+    * To facilitate my service
+    * To provide the service on my behalf
+    * To perform service-related tasks
+    * To help me analyze how my service is used.
 
-This service does not directly use cookies, but third-party libraries or algorithms within the app may use them for information collection and service improvement. Since the app is mobile-based and uses an internal SQLite database for settings and in-game credits, cookies are not utilized.
+These third parties have access to your personal information only to perform these tasks on my behalf and are obligated not to disclose or use it for any other purpose.
 
-**Service Providers**
+## Children's Privacy
+This game is similar to Tic-Tac-Toe or xo and can be played by children of any age. If I discover that a child under 13 has provided me with personal information, I will immediately delete it from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I can take necessary actions.
 
-I may employ third-party companies or individuals to facilitate our service, provide the service on my behalf, perform service-related tasks, or analyze how the service is used. These third parties have access to your personal information only to perform these tasks and are obligated not to disclose or use it for any other purpose.  
+## General Guidance for Parents
+I encourage parents to review the game before allowing their child to use it, recommend setting limits on screen time to protect their eyesight, and suggest using parental controls on the mobile device.
 
-**Security**
+## Changes
+I may update my privacy policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new privacy policy on this page. These changes are effective immediately after they are posted on this page.
 
-I value your trust in providing personal information. I strive to use commercially acceptable means of protection. However, no internet transmission or electronic storage method is 100% secure, and I cannot guarantee its absolute security.
-
-**Links to Other Sites**
-
-This service may contain links to other sites. Clicking on a third-party link will direct you to that site. I strongly advise you to review the privacy policies of these external sites, as I have no control over their content, privacy practices, or services.  
-
-**Children's Privacy**
-
-This game is similar to tic-tac-toe and suitable for all ages. If I learn a child under 13 has provided personal information, I will delete it immediately. If you are a parent or guardian and believe your child has provided personal information, please contact me so I can take necessary actions.
-
-**Changes to This Privacy Policy**
-
-I may update this Privacy Policy periodically. You are advised to review this page for any changes. I will notify you of changes by posting the new Privacy Policy on this page. These changes are effective immediately upon posting.
-
-**Contact Us**
-
-If you have any questions or suggestions about my Privacy Policy, please do not hesitate to contact me:
+## Contact
+If you have any questions or suggestions about my privacy policy, do not hesitate to contact me.
 
     Name: Ihab Shoully
     Email: Provided inside the Google Play, Safragt Game page.
