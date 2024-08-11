@@ -17,14 +17,14 @@ To save information like game scores and game preferences, I use local storage o
 ## Security
 I value your trust in providing us with your personal information, so I strive to use commercially acceptable means of protecting it. I use encryption (SSL) to protect data during online transmission, and I implement authentication to access the online game. Each user can only access their own game data. I update the app at least once a year.
 
-### Links to Privacy Policies of Third-Party Service Providers
+### Third-Party Service Providers
 
-  * Google Play Services:
-        https://policies.google.com/privacy?hl=en-US
-  * Firebase Analytics:
-        https://firebase.google.com/terms/analytics
-  * Crashlytics:
-        https://firebase.google.com/docs/crashlytics
+  * **Google Play Services**
+        Privacy Policy: https://policies.google.com/privacy?hl=en-US
+  * **Firebase Analytics**
+        Privacy Policy: https://firebase.google.com/terms/analytics
+  * **Crashlytics**
+        Privacy Policy: https://firebase.google.com/docs/crashlytics
 
 ## Log Data
 I want to inform you that whenever you use my service, in case of an error in the game, I collect data and information (through third-party products) on your phone called Log Data. This log data may include information such as your device's Internet Protocol (IP) address, device name, operating system version, the configuration of the app when utilizing my service, the time and date of your use of the service, and other statistics.
@@ -35,10 +35,10 @@ This service does not explicitly use cookies. However, I use local storage insid
 ## Service Providers
 I may employ third-party companies and individuals for the following reasons:
 
-    * To facilitate my service
-    * To provide the service on my behalf
-    * To perform service-related tasks
-    * To help me analyze how my service is used.
+   * To facilitate my service
+   * To provide the service on my behalf
+   * To perform service-related tasks
+   * To help me analyze how my service is used.
 
 These third parties have access to your personal information only to perform these tasks on my behalf and are obligated not to disclose or use it for any other purpose.
 
@@ -54,5 +54,5 @@ I may update my privacy policy from time to time. Thus, you are advised to revie
 ## Contact
 If you have any questions or suggestions about my privacy policy, do not hesitate to contact me.
 
-    Name: Ihab Shoully
-    Email: Provided inside the Google Play, Safragt Game page.
+   Name: Ihab Shoully
+   Email: Provided inside the Google Play, Safragt Game page.
