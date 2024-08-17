@@ -1,6 +1,6 @@
 # Safragt Game Privacy Policy
 
-I, Ihab Shouly, developed this game "Safargt" as an ad-supported app. This service is provided at no cost and is intended for use as is.
+I, Ihab Shoully, developed this game "Safargt" as an ad-supported app. This service is provided at no cost and is intended for use as is.
 
 This page is used to inform you of my policies regarding the collection, use, and disclosure of personal information if anyone decides to use my service.
 
