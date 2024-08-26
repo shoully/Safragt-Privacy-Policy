@@ -13,9 +13,9 @@ We do not collect, store, or process any personal data. The game operates entire
 
 The game uses local storage on your device for the following purposes:
 
-#### Player Names: Stored in shared preferences. We do not have access to this data.
-#### User Preferences: Saves a setting to avoid re-prompting for player names if already entered.
-#### Scores: Stored temporarily in RAM and deleted when the app is closed. A scoreboard keeps records of the last ten games, saved in shared preferences. This data continuously overrides to keep only the most recent ten records. Users can delete all records at any time.
+* Player Names: Stored in shared preferences. We do not have access to this data.
+* User Preferences: Saves a setting to avoid re-prompting for player names if already entered.
+* Scores: Stored temporarily in RAM and deleted when the app is closed. A scoreboard keeps records of the last ten games, saved in shared preferences. This data continuously overrides to keep only the most recent ten records. Users can delete all records at any time.
 
 ### No Third-Party Services
 
