@@ -1,10 +1,10 @@
-# Safragt IO
+# Drag Tac Toe 
 ## Privacy Policy
 
 Version: 2.0
 Date: August 24, 2024
 
-I, Ihab Shoully, developed the game "Safragt IO" as a free, offline app. This game is provided at no cost and is intended for use as is.
+I, Ihab Shoully, developed the game "Drag Tac Toe" as a free, offline app. This game is provided at no cost and is intended for use as is.
 
 ### Information Collection and Use
 
