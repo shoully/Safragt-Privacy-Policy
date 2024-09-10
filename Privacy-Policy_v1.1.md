@@ -58,5 +58,5 @@ I may update my privacy policy from time to time. Thus, you are advised to revie
 ## Contact
 If you have any questions or suggestions about my privacy policy, do not hesitate to contact me.
 
-   Name: Ihab Ahmed
-   Email: privacy@appray.ai
+* Name: Ihab Ahmed
+* Email: privacy@appray.ai
