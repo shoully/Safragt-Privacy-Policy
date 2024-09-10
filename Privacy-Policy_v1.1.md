@@ -1,6 +1,7 @@
 # Safragt Game Privacy Policy
 
 Version: 1.1
+
 Date: September 10, 2024
 
 I, Ihab Ahmed, developed this game "Safargt" in Arabic "صفرجت" as an ad-supported app. This service is provided at no cost and is intended for use as is.
