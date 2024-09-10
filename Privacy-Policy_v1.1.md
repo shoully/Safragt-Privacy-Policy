@@ -1,6 +1,9 @@
 # Safragt Game Privacy Policy
 
-I, Ihab Shoully, developed this game "Safargt" as an ad-supported app. This service is provided at no cost and is intended for use as is.
+Version: 1.1
+Date: September 10, 2024
+
+I, Ihab Ahmed, developed this game "Safargt" in Arabic "صفرجت" as an ad-supported app. This service is provided at no cost and is intended for use as is.
 
 This page is used to inform you of my policies regarding the collection, use, and disclosure of personal information if anyone decides to use my service.
 
@@ -54,5 +57,5 @@ I may update my privacy policy from time to time. Thus, you are advised to revie
 ## Contact
 If you have any questions or suggestions about my privacy policy, do not hesitate to contact me.
 
-   Name: Ihab Shoully
-   Email: Provided inside the Google Play, Safragt Game page.
+   Name: Ihab Ahmed
+   Email: privacy@appray.ai
